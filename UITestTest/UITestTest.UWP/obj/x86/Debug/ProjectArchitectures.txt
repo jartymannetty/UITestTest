@@ -1,1 +1,0 @@
-C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.UWP\UITestTest.UWP.csproj;x86
