@@ -95,3 +95,7 @@ C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Deb
 C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Debug\android\assets\System.Xml.pdb
 C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\bin\Debug\UITestTest.Android.dll
+C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Debug\linksrc\UITestTest.Android.dll.mdb
+C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\mpineault\source\repos\UITestTest\UITestTest\UITestTest.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
